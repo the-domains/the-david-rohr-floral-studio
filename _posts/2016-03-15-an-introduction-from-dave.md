@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Welcome! Let's talk about Weddings..."
-datePublished: '2016-03-15T12:31:50.124Z'
-dateModified: '2016-03-15T12:31:46.751Z'
+datePublished: '2016-03-15T12:44:23.992Z'
+dateModified: '2016-03-15T12:44:10.933Z'
 title: An Introduction from Dave
 author: []
 sourcePath: _posts/2016-03-15-an-introduction-from-dave.md
@@ -18,15 +19,14 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: an-introduction-from-dave/index.html
-_type: Article
+_type: Blurb
 
 ---
 Welcome! Let's talk about Weddings...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f860c760-df76-4da1-ab73-37cfc0cffd25.jpg)
 
 I'm David Rohr - Dave to my friends. And I'm a florist - a third-generation florist, in fact. And one of the things I love to do is create beautiful weddings for special people - like you.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b384d4e8d46d91e1a4ab7436b0f8e8962181907.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be40912b76f533881e3c291d27a88cf2714b162d.jpg)
 
 Weddings come in all sizes, shapes and colors - and if they're done right, they reflect your taste and style - not mine.
 
