@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Welcome! Let's talk about Weddings..."
-datePublished: '2016-03-15T01:40:54.820Z'
-dateModified: '2016-03-15T01:39:56.523Z'
+datePublished: '2016-03-15T02:32:05.785Z'
+dateModified: '2016-03-15T02:32:00.432Z'
 title: An Introduction from Dave
 author: []
+sourcePath: _posts/2016-03-15-an-introduction-from-dave.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-an-introduction-from-dave.md
-published: true
 url: an-introduction-from-dave/index.html
 _type: Article
 
@@ -46,3 +46,5 @@ But regardless of the size or style or mood, they are all special to me.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c05431bd-c22b-4a3b-b62a-0c7992bb839c.png)
 
 So follow along with me, as I tell you about some of the wonderful couples and the beautiful flowers I've made for them...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae913f4f-29a9-4965-94a0-910fd5c76733.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01ff2b75-3ea7-484d-b8f5-cb6fa9383482.jpg)
