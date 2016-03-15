@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: "Welcome! Let's talk about Weddings..."
-datePublished: '2016-03-15T12:44:23.992Z'
-dateModified: '2016-03-15T12:44:10.933Z'
+datePublished: '2016-03-15T12:52:52.993Z'
+dateModified: '2016-03-15T12:52:33.354Z'
 title: An Introduction from Dave
 author: []
 sourcePath: _posts/2016-03-15-an-introduction-from-dave.md
@@ -23,7 +23,7 @@ _type: Blurb
 
 ---
 Welcome! Let's talk about Weddings...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f860c760-df76-4da1-ab73-37cfc0cffd25.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5346d8f0786efb8f00806896a9e1a15bab1d917.jpg)
 
 I'm David Rohr - Dave to my friends. And I'm a florist - a third-generation florist, in fact. And one of the things I love to do is create beautiful weddings for special people - like you.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be40912b76f533881e3c291d27a88cf2714b162d.jpg)
@@ -40,7 +40,6 @@ Some are almost regal...
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4187fa46c40733e09714da53a8a00b4ffc225469.png)
 
 But regardless of the size or style or mood, they are all special to me.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/28bd3c3f0a8746685c8ba411fa18cf20247605b0.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dbc72fb79a01610b409d1d832d2b365ffc52292.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e8d2f0680e0e708241377e1df201237d7b63a3e.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/011bf16d94d6b4be1ac4b68b17923e903138cf69.png)
