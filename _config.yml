@@ -1,0 +1,28 @@
+name: The David Rohr Floral Studio
+favicon: null
+layout_spectrum: 0.904100336600095
+typography_spectrum: 0.9053520916495472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7043818852398545
+  lightness: 0.1523304597940296
+  saturation: 0.6764937329571694
+  rhythmicContrast: 0.03317344654351473
+purpose: []
