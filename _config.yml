@@ -1,7 +1,7 @@
 name: The David Rohr Floral Studio
 favicon: null
 layout_spectrum: 0.9477234
-typography_spectrum: 0.9053520916495472
+typography_spectrum: 0.45622
 title: "Dave Rohr's Wedding Blog"
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#C8AA86'
-    - '#FFFFFF'
-    - '#88785C'
-    - '#4B2F28'
-    - '#B34B31'
+    - '#ae947b'
+    - '#fffcf0'
+    - '#070000'
+    - '#434136'
+    - '#bdd18a'
   brandStrength: 0.8125
-  lightness: 0.7360877
+  lightness: 0.625
   saturation: 0.3364249
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
