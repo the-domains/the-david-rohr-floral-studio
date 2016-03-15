@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dave Rohr's Wedding Blog]]></title>
         <description><![CDATA[Dave Rohr's Wedding Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-david-rohr-floral-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 06:38:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 06:39:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-david-rohr-floral-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/554498b4-ef00-47e4-b3b9-98c5891c5037.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/the-david-rohr-floral-studio/pasadena-hillside-wedding/index.html</link>
+            <guid isPermaLink="false">750ee359-9af1-4888-859c-bbc6cfa94de6</guid>
+            <pubDate>Tue, 15 Mar 2016 06:39:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An Introduction from Dave]]></title>
             <description><![CDATA[<article><h1>An Introduction from Dave</h1><p>Welcome! Let's talk about Weddings...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5346d8f0786efb8f00806896a9e1a15bab1d917.jpg"></article>]]></description>
-            <link>undefinedan-introduction-from-dave/index.html</link>
+            <link>https://thegrid.ai/the-david-rohr-floral-studio/an-introduction-from-dave/index.html</link>
             <guid isPermaLink="false">6f6b5221-4a2e-4630-b1dc-e24e832d3442</guid>
             <pubDate>Tue, 15 Mar 2016 06:38:07 GMT</pubDate>
         </item>
