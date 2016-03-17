@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Welcome! Let's talk about Weddings..."
-datePublished: '2016-03-17T16:30:19.868Z'
-dateModified: '2016-03-17T16:30:02.068Z'
+datePublished: '2016-03-17T16:32:04.870Z'
+dateModified: '2016-03-17T16:32:04.446Z'
 title: An Introduction from Dave
 author: []
 sourcePath: _posts/2016-03-15-an-introduction-from-dave.md
