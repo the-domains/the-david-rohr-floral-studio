@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dave Rohr's Wedding Blog]]></title>
+        <description><![CDATA[Dave Rohr's Wedding Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 17:17:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da3451db-ba3a-440e-989f-96aaf26d96f7.jpg">]]></description>
+            <link>undefinedbouquet-styles/index.html</link>
+            <guid isPermaLink="false">c1204448-5e1f-459a-bc7e-8d64d18caec8</guid>
+            <pubDate>Thu, 17 Mar 2016 17:16:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
