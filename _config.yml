@@ -1,8 +1,20 @@
-name: The David Rohr Floral Studio
+title: Dave Rohr's Wedding Blog
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.9425532
 favicon: null
-layout_spectrum: 0.50993
-typography_spectrum: 1
-title: "Dave Rohr's Wedding Blog"
+name: The David Rohr Floral Studio
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -15,27 +27,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.75
+  saturation: 0.25
   brandColors:
     - '#ae947b'
     - '#fffcf0'
     - '#070000'
     - '#434136'
     - '#bdd18a'
-  brandStrength: 0.75
   lightness: 0.875
-  saturation: 0.25
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 1
