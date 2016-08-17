@@ -4,21 +4,23 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
 keywords: []
-description: "Welcome! Let's talk about Weddings..."
-datePublished: '2016-03-17T16:32:04.870Z'
-dateModified: '2016-03-17T16:32:04.446Z'
-title: An Introduction from Dave
-author: []
+description: Welcome! Let's talk about Weddings...
+datePublished: '2016-08-17T23:12:49.804Z'
+dateModified: '2016-08-17T23:12:40.177Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-15-an-introduction-from-dave.md
-published: true
+via: {}
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+starred: false
 _type: Blurb
 
 ---
