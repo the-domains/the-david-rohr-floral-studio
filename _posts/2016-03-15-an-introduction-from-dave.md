@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Welcome! Let's talk about Weddings...
-datePublished: '2016-08-17T23:12:49.804Z'
-dateModified: '2016-08-17T23:12:40.177Z'
+datePublished: '2016-08-17T23:13:48.038Z'
+dateModified: '2016-08-17T23:12:59.012Z'
 title: ''
 author:
   - name: ''
