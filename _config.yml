@@ -1,4 +1,3 @@
-layout_spectrum: 0.5546594210900366
 typography_spectrum: 0.5818450560327619
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5546594210900366
 analytics:
   google: null
   facebook: null
@@ -38,6 +38,9 @@ navigation:
     type: content
   - name: Let’s talk about Weddings…
     id: 6f6b5221-4a2e-4630-b1dc-e24e832d3442
+    type: content
+  - name: John & Maria
+    id: e6b98b6c-0e5c-4b79-a9c6-012256e73ccf
     type: content
 favicon: null
 collections:
