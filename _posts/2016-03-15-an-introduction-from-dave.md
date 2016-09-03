@@ -1,34 +1,30 @@
 ---
+datePublished: '2016-08-31T19:53:40.320Z'
+sourcePath: _posts/2016-03-15-an-introduction-from-dave.md
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
-inLanguage: null
+authors: []
+hasPage: true
 keywords: []
-description: Welcome! Let's talk about Weddings...
-datePublished: '2016-08-17T23:13:48.038Z'
-dateModified: '2016-08-17T23:12:59.012Z'
-title: ''
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-03-15-an-introduction-from-dave.md
 via: {}
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+dateModified: '2016-08-31T19:53:39.879Z'
+title: ''
+publisher: {}
+description: Welcome! Let's talk about Weddings...
+inLanguage: null
+inNav: false
 starred: false
-_type: Blurb
+url: an-introduction-from-dave/index.html
+_type: Article
 
 ---
 Welcome! Let's talk about Weddings...
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4df284c1f91887a464e2c7a62e44752d4e43a8d.jpg)
 
 I'm David Rohr - Dave to my friends. And I'm a florist - a third-generation florist, in fact. And one of the things I love to do is create beautiful weddings for special people - like you.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be40912b76f533881e3c291d27a88cf2714b162d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/937fc4a11dd1507abb64aae62c1019eca932e649.jpg)
 
 Weddings come in all sizes, shapes and colors - and if they're done right, they reflect your taste and style - not mine.
 
@@ -44,7 +40,7 @@ Some are almost regal...
 But regardless of the size or style or mood, they are all special to me.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/16ebfc3fbbb411f96267b97c2f5b55866fc01ef1.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b450fd729ece061611f8fafd1f509c50cbde22f.png)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/011bf16d94d6b4be1ac4b68b17923e903138cf69.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe890904fcebb11e39c048b409b4d28482eea520.png)
 
 So follow along with me, as I tell you about some of the wonderful couples and the beautiful flowers I've made for them...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01ff2b75-3ea7-484d-b8f5-cb6fa9383482.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/81209d3531c34f88dab7d3d9782ccfe86a57f671.jpg)
