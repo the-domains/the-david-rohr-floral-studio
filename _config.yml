@@ -36,9 +36,6 @@ navigation:
   - name: Chelsey & John
     id: 498c6f43-2e7c-4a63-90c0-c500308a8898
     type: content
-  - name: The David Rohr Floral Studio
-    url: 'http://www.DavidRohrStudio.com'
-    type: external
 favicon: null
 collections:
   - index:
