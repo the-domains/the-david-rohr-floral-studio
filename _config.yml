@@ -1,4 +1,3 @@
-layout_spectrum: 0.23195087630301714
 typography_spectrum: 0.16827916842885315
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.23195087630301714
 analytics:
   google: null
   facebook: null
@@ -23,8 +23,7 @@ author:
   name: Dave Rohr
   email: dave@davidrohrstudio.com
   url: 'http://www.davidrohrstudio.com'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a36dcbd1-1e64-4fca-8fc2-56d3d6a555e1.png
+logo: null
 name: The David Rohr Floral Studio
 cta:
   domain: null
@@ -53,6 +52,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Dave Rohr's Wedding Blog
+title: Custom Floristry for Life's Celebrations
 description: Custom Floristry for Life's Celebrations
 purpose: []
