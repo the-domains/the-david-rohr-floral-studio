@@ -54,4 +54,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Dave Rohr's Wedding Blog
+description: Custom Floristry for Life's Celebrations
 purpose: []
