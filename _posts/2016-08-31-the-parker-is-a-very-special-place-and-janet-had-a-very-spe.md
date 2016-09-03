@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-31T20:01:07.714Z'
+datePublished: '2016-09-01T03:07:11.632Z'
 sourcePath: >-
   _posts/2016-08-31-the-parker-is-a-very-special-place-and-janet-had-a-very-spe.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T20:01:07.278Z'
+dateModified: '2016-09-01T03:07:11.151Z'
 title: Janet & James
 publisher: {}
 description: >-
   The Parker is a very special place, and Janet had a very special vision - the
   combination of desert succulents with gold and red.
-hasPage: true
 starred: false
 url: janet-and-james/index.html
 _type: Article
