@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-09-01T04:23:00.559Z'
+datePublished: '2016-09-01T04:23:14.995Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T04:22:19.348Z'
+dateModified: '2016-09-01T04:23:13.519Z'
 title: John & Maria
 publisher: {}
 description: East Coast meets the California Desert
-starred: false
 sourcePath: _posts/2016-09-01-john-and-maria.md
-_type: Blurb
+hasPage: true
+starred: false
+url: john-and-maria/index.html
+_type: Article
 
 ---
 # John & Maria
