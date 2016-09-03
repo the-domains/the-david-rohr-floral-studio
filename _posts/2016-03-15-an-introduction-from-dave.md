@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T02:49:55.939Z'
+datePublished: '2016-09-01T02:50:17.024Z'
 sourcePath: _posts/2016-03-15-an-introduction-from-dave.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-01T02:49:55.260Z'
+dateModified: '2016-09-01T02:50:16.459Z'
 title: Let’s talk about Weddings…
 publisher: {}
 description: >-
