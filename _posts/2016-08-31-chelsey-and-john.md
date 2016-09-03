@@ -1,18 +1,20 @@
 ---
-datePublished: '2016-08-31T19:46:35.356Z'
+datePublished: '2016-08-31T20:01:46.278Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T19:46:22.528Z'
+dateModified: '2016-08-31T20:01:45.775Z'
 title: Chelsey & John
 publisher: {}
 description: >-
   Romance on a hillside - The O’Donnell House was the setting for Chelsey and
   John’s wedding. Chelsey’s vision included pink peonies - which made for a
   stunning bouquet.
-starred: false
 sourcePath: _posts/2016-08-31-chelsey-and-john.md
-_type: Blurb
+hasPage: true
+starred: false
+url: chelsey-and-john/index.html
+_type: Article
 
 ---
 # Chelsey & John
