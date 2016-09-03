@@ -36,6 +36,9 @@ navigation:
   - name: Chelsey & John
     id: 498c6f43-2e7c-4a63-90c0-c500308a8898
     type: content
+  - name: Let’s talk about Weddings…
+    id: 6f6b5221-4a2e-4630-b1dc-e24e832d3442
+    type: content
 favicon: null
 collections:
   - index:
