@@ -34,6 +34,9 @@ navigation:
   - name: Janet & James
     id: e5e8cc99-cda0-4d2d-8ed8-36b1c7e18a2d
     type: content
+  - name: Chelsey & John
+    id: 498c6f43-2e7c-4a63-90c0-c500308a8898
+    type: content
 favicon: null
 collections:
   - index:
