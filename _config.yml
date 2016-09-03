@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Janet & James
+    id: e5e8cc99-cda0-4d2d-8ed8-36b1c7e18a2d
+    type: content
 favicon: null
 collections:
   - index:
